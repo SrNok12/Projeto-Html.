@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Chakra+Petch:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap" rel="stylesheet">
+    <title>Manual do Mundo</title>
+</head>
+
+<body>
+    <header>
+        <h1>Manual do Mundo</h1>
+        <p>Explorando a ciência e a criatividade com vídeos incríveis</p>
+    </header>
+
+    <section class="introducao">
+        <div class="introducao-texto">
+            <h2>Bem-vindo ao Manual do Mundo!</h2>
+            <p>Aqui você encontrará uma seleção dos melhores vídeos do Manual do Mundo, onde a ciência e a curiosidade se encontram. Prepare-se para aprender e se divertir com experimentos, desafios e descobertas incríveis!</p>
+        </div>
+        <div class="introducao-video">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/srQ9vhWjqC8" title="Introdução ao Manual do Mundo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </div>
+    </section>
+
+    <section class="categoria">
+        <h2>Vídeos Populares</h2>
+        <div class="categoria-videos">
+            <a href="https://youtu.be/srQ9vhWjqC8?si=Rvwa2AlNk4cVPbq3">
+                <img src="https://img.youtube.com/vi/srQ9vhWjqC8/maxresdefault.jpg" alt="Manual do Mundo - Vídeo 1">
+            </a>
+            <a href="https://youtu.be/Y_cvGh7mDC0?si=y4KlJuMMXlR83SoK">
+                <img src="https://img.youtube.com/vi/Y_cvGh7mDC0/maxresdefault.jpg" alt="Manual do Mundo - Vídeo 2">
+            </a>
+            <a href="https://youtu.be/iXqmK1z22Z0?si=KdZelvi3-ODFuw_z">
+                <img src="https://img.youtube.com/vi/iXqmK1z22Z0/maxresdefault.jpg" alt="Manual do Mundo - Vídeo 3">
+            </a>
+            <a href="https://youtu.be/BM6i5wX3OHQ?si=RAYDTYZqFzYCtUDU">
+                <img src="https://img.youtube.com/vi/BM6i5wX3OHQ/maxresdefault.jpg" alt="Manual do Mundo - Vídeo 4">
+            </a>
+            <a href="https://youtu.be/iqNPL_5MayI?si=g7lIXdJVmvuW4GwO">
+                <img src="https://img.youtube.com/vi/iqNPL_5MayI/maxresdefault.jpg" alt="Manual do Mundo - Vídeo 5">
+            </a>
+            <a href="https://youtu.be/mi-4LRHh8rQ?si=OZMue73RWl_3L5_5">
+                <img src="https://img.youtube.com/vi/mi-4LRHh8rQ/maxresdefault.jpg" alt="Manual do Mundo - Vídeo 6">
+            </a>
+        </div>
+    </section>
+
+    <footer>
+        <!-- Rodapé vazio -->
+    </footer>
+</body>
+
+</html>
